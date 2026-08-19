@@ -1,0 +1,1 @@
+-Instale WSL2, configure Git y GitHub, hice el primer push.
