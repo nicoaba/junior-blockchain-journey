@@ -1,1 +1,2 @@
 -Instale WSL2, configure Git y GitHub, hice el primer push.
+- Instale Node.js via nvm (v24.19.0) y verifique la version.
